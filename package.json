@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/juampyarnaudo/Acamica_1/issues"
   },
-  "homepage": "https://github.com/juampyarnaudo/Acamica_1#readme"
+  "homepage": "https://github.com/juampyarnaudo/Acamica_1#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
 }
